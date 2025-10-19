@@ -1,0 +1,12 @@
+.workspace
+{
+    min-height: 100vh;
+    width: 80vw;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 1%;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #fff;
+
+}
